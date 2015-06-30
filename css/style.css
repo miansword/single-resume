@@ -14,10 +14,10 @@ ul,li{list-style: none;margin:0;padding:0;}
 .page1.active .wrap .text h1{opacity: 1;transition:.8s;transition-deploy:.8s;}
 .page1.active .wrap .text p.one{opacity: 1;transition:.8s;transition-deploy:1.6s;}
 .page1.active .wrap .text p.two{opacity: 1;transition:.8s;transition-deploy:2.4s;}
-.page2{background: #D85156;}
+.page2{background: #C02222;}
 .page3{background: #eee;}
 .page4{background: #ffffff;}
-.page5{background: #DB4D73;}
+.page5{background: #C51041;}
 .page2 .wrap,.page3 .wrap,.page4 .wrap,.page5 .wrap{position: relative;top:8%;left:0;right:0;margin-left: auto;overflow: hidden;margin-right: auto;}
 .wrap h3{font-size: 26px;text-align: center;margin:5px;}
 .wrap h3 span{display: block;text-align: center;font-size: 18px;line-height: 50px;}
