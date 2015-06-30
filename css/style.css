@@ -78,6 +78,8 @@ ul,li{list-style: none;margin:0;padding:0;}
 .page3 .wrap h3{margin-bottom: 60px;}
 .page4 .wrap h3{margin-bottom: 0px;}
 .page5 .wrap h3{margin-bottom: 0px;}
+.page5 .wrap ul li{width: 230px;height: 230px;}
+.page5 .wrap ul{padding-left:90px;}
 }
 
 /*popup*/
