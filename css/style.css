@@ -27,7 +27,7 @@ ul,li{list-style: none;margin:0;padding:0;}
 .page4 .wrap h3{margin-bottom: 80px;}
 .page5 .wrap h3{margin-bottom: 60px;}
 .page3 .wrap h3 span,.page4 .wrap h3 span{color:#333;}
-.page2 .wrap img{float:right;width: 250px;height: 250px;border-radius: 300px;margin-right:15px;opacity: 0;-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg);-webkit-transition: .8s;-moz-transition: .8s;-o-transition: .8s;transition: .8s;}
+.page2 .wrap img{float:right;width: 220px;height: 220px;border-radius: 300px;margin-right:15px;opacity: 0;-webkit-transform:rotate(0deg);-moz-transform:rotate(0deg);-o-transform:rotate(0deg);transform:rotate(0deg);-webkit-transition: .8s;-moz-transition: .8s;-o-transition: .8s;transition: .8s;}
 .page2.active .wrap img{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-o-transform:rotate(360deg);transform:rotate(360deg);opacity: 1;-webkit-transition: .8s;-moz-transition: .8s;-o-transition: .8s;transition: .8s;}
 .page2 .wrap p{width: 600px;float:left;font-size: 16px;line-height: 28px;margin-left:15px;-webkit-transition: all .8s;-moz-transition: all .8s;-o-transition: all .8s;transition: all .8s;}
 .page2 .wrap .my-icons{padding:2px 5px;margin:8px 10px;font-size: 20px;}
